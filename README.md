@@ -9,6 +9,8 @@ Content visibility is determined by user votes.
 - TypeScript
 - Tailwind
 
+- Icons (SVG): https://lucide.dev/icons/
+
 ## Features
 
 - Component library: [Shadcn/UI](https://ui.shadcn.com/): `npx shadcn-ui@latest init`

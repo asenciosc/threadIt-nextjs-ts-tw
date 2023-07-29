@@ -10,6 +10,7 @@ Content visibility is determined by user votes.
 - Tailwind
 
 - Icons (SVG): https://lucide.dev/icons/
+- Temporary UI Messages: https://ui.shadcn.com/docs/components/toast
 
 ## Features
 
